@@ -6,7 +6,7 @@ import plotly.express as px
 
 DATE_TIME = "date/time"
 DATA_URL = (
-    "Motor_Vehicle_Collisions_-_Crashes.csv" #"/home/cicada/Downloads/rhyme/streamlit/Motor_Vehicle_Collisions_-_Crashes.csv
+    "https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/data"
 )
 
 st.title("Motor Vehicle Collisions in New York City")
